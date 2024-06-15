@@ -1,4 +1,4 @@
-## "Innovative Clinical Trial Design Internship Program"
+## Innovative Clinical Trial Design Internship Program
 
 **Objective:**
 
