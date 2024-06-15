@@ -6,6 +6,7 @@ To provide interns with comprehensive training and hands-on experience in design
 
 ### 1. **Designing Adaptive Clinical Trials**
 **Objective:** To develop adaptive trial designs that allow for modifications based on interim results to improve efficiency and patient outcomes.
+
 **Tasks:**
 - Research existing adaptive trial designs and methodologies.
 - Create a protocol for an adaptive clinical trial in a specific therapeutic area.
@@ -15,6 +16,7 @@ To provide interns with comprehensive training and hands-on experience in design
 
 ### 2. **Bayesian Methods in Clinical Trial Design**
 **Objective:** To explore and implement Bayesian methods for more flexible and informative clinical trial designs.
+
 **Tasks:**
 - Study the principles of Bayesian statistics and their application in clinical trials.
 - Develop a Bayesian trial design for a hypothetical drug study.
@@ -24,6 +26,7 @@ To provide interns with comprehensive training and hands-on experience in design
 
 ### 3. **Patient-Centered Clinical Trial Design**
 **Objective:** To design clinical trials with a focus on patient-centric endpoints and outcomes.
+
 **Tasks:**
 - Conduct a literature review on patient-centered trial designs and endpoints.
 - Develop a trial design that incorporates patient preferences and real-world outcomes.
@@ -33,6 +36,7 @@ To provide interns with comprehensive training and hands-on experience in design
 
 ### 4. **Utilizing Real-World Data in Clinical Trial Design**
 **Objective:** To integrate real-world data (RWD) into clinical trial designs to enhance relevance and applicability of findings.
+
 **Tasks:**
 - Identify sources of real-world data relevant to a specific therapeutic area.
 - Develop a protocol that incorporates RWD into the trial design.
@@ -42,6 +46,7 @@ To provide interns with comprehensive training and hands-on experience in design
 
 ### 5. **Simulation-Based Clinical Trial Design**
 **Objective:** To use simulation techniques to optimize clinical trial designs and predict potential outcomes.
+
 **Tasks:**
 - Study various simulation techniques and their applications in clinical trials.
 - Develop a simulation model for a clinical trial in a specific disease area.
@@ -51,6 +56,7 @@ To provide interns with comprehensive training and hands-on experience in design
 
 ### 6. **Designing Decentralized Clinical Trials**
 **Objective:** To create a decentralized clinical trial design that leverages technology to improve patient access and data collection.
+
 **Tasks:**
 - Research the principles and technologies enabling decentralized trials (e.g., telemedicine, wearable devices).
 - Develop a decentralized trial protocol for a specific therapeutic area.
@@ -60,6 +66,7 @@ To provide interns with comprehensive training and hands-on experience in design
 
 ### 7. **Ethical Considerations in Clinical Trial Design**
 **Objective:** To explore and address ethical issues in the design of clinical trials.
+
 **Tasks:**
 - Conduct a literature review on ethical principles and guidelines for clinical trials.
 - Identify potential ethical challenges in trial design for a specific case study.
